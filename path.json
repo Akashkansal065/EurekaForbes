@@ -1,0 +1,22 @@
+{
+    "website": {
+        "service": ".services>a",
+        "bookService": ".sup-block.show>a",
+        "bookServiceWidgetForScroll": ".support-block",
+        "mobileField": "#mobNumber",
+        "submitLogin": "#OTPbtn",
+        "otp": "#otp",
+        "submitOtp": "#btn-otpverify",
+        "serviceRequestButton": "#Service\\ Requests"
+    },
+    "msite": {
+        "service": ".m-services>a",
+        "bookService": ".sup-block.show>a",
+        "bookServiceWidgetForScroll": ".support-block",
+        "mobileField": "#mobNumber",
+        "submitLogin": "#OTPbtn",
+        "otp": "#otp",
+        "submitOtp": "#btn-otpverify",
+        "serviceRequestButton": "#Service\\ Requests"
+    }
+}
